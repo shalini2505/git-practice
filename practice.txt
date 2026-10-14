@@ -1,2 +1,2 @@
 Learning Git branches and pull requests.
-I am learning Git merge conflicts.
+I am learning Git branching and merge conflicts
