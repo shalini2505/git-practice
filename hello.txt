@@ -1,3 +1,3 @@
-Hello,I am learning Git.
+Hello,I am learning Github.
 I am practicing Git Commands
 Learning Git branching practically
